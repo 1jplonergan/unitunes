@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c11c16f-804e-4b71-8e30-d4b31b955392" name="Default Changelist" comment="" />
+    <list default="true" id="7c11c16f-804e-4b71-8e30-d4b31b955392" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Wu8fu8dzttYlcZtOi8yjjm7lav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +23,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,5 +50,11 @@
       <updated>1579988225734</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1579991530195">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="449" y="307" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1579991530195" />
   </component>
 </project>
