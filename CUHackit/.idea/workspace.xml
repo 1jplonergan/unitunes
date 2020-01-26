@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c11c16f-804e-4b71-8e30-d4b31b955392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/src/Album.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/SpotifyAPI.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="885" y="286" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580003128234">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="885" y="286" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1580003128234" />
+    <state x="845" y="93" width="567" height="777" key="DiffContextDialog" timestamp="1580003375604">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="845" y="93" width="567" height="777" key="DiffContextDialog/0.0.1504.963@0.0.1504.963" timestamp="1580003375604" />
     <state x="449" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1579991530195">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
