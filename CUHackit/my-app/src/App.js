@@ -70,7 +70,7 @@ export default function SignInSide() {
             <LockOutlinedIcon />
           </Avatar>
           <Typography component="h1" variant="h5">
-            Sign into Spotify
+            Sign Into Spotify
           </Typography>
           <form className={classes.form} noValidate>
             <TextField
@@ -78,10 +78,10 @@ export default function SignInSide() {
               margin="normal"
               required
               fullWidth
-              id="email"
-              label="Email Address"
-              name="email"
-              autoComplete="email"
+              id="username"
+              label="Username"
+              name="username"
+              autoComplete="username"
               autoFocus
             />
             <TextField
@@ -94,6 +94,17 @@ export default function SignInSide() {
               type="password"
               id="password"
               autoComplete="current-password"
+            />
+            <TextField
+              variant="outlined"
+              margin="normal"
+              required
+              fullWidth
+              name="university"
+              label="University"
+              type="university"
+              id="university"
+              autoComplete="university"
             />
             <FormControlLabel
               control={<Checkbox value="remember" color="primary" />}
