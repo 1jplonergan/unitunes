@@ -19,12 +19,6 @@ app = Flask(__name__)
 @app.route('/')
 def spotify_test():
     username = sys.argv[1]
-     
-    #export SPOTIPY_CLIENT_ID='28c97b38b4fb4668a1963fcbbd6d2353'
-    #export SPOTIPY_CLIENT_SECRET='your-spotify-client-secret'
-    #export SPOTIPY_REDIRECT_URI='http://google.com/'
-    
-    #user_id = 	ahx2v4cknryduq19a58m1yx1b
         
     try:
         token = util.prompt_for_user_token(username)
